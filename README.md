@@ -29,7 +29,7 @@ Includes your name, role, social media links, and a scannable QR code leading to
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/digital_business_card.git
+git clone https://github.com/bektas-sari/digital_business_card.git
 cd digital_business_card
 ```
 
