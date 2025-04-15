@@ -15,12 +15,6 @@ Includes your name, role, social media links, and a scannable QR code leading to
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots here if needed (e.g., `assets/screenshots/card.png`)_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
