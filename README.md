@@ -1,6 +1,7 @@
 # 💼 Digital Business Card
 
-A modern Flutter application that displays your personal and professional identity in a clean, digital card layout. Includes your name, role, social media links, and a scannable QR code leading to your LinkedIn or portfolio.
+A modern Flutter application that displays your personal and professional identity in a clean, digital card layout. 
+Includes your name, role, social media links, and a scannable QR code leading to your LinkedIn or portfolio.
 
 ---
 
