@@ -73,7 +73,10 @@ Pull requests and suggestions are welcome. Feel free to fork the repo and improv
 
 ## 📄 License
 
-MIT License © 2024 yourusername
+MIT License © 2025 bektas-sari
 
+---
 
-description: A modern Flutter business card app displaying your name, title, social links, and QR code. Built with a clean card layout using CircleAvatar, Icons, and qr_flutter for easy networking and sharing.
+## Contact
+
+Email: bektas.sari@gmail.com
